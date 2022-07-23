@@ -1,0 +1,5 @@
+{
+    "return_tensors": "tf",
+    "padding": "longest",
+    "sampling_rate": 16000
+}

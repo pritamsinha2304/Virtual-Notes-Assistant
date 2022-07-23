@@ -1,0 +1,8 @@
+.env
+.dockerignore
+.vscode
+.venv
+docker-compose.yaml
+__pycache__
+app_files/__pycache__
+models/tf_model.h5
